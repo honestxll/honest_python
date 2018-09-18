@@ -1,3 +1,0 @@
-This is my first text.
-This is next line.
-This is appended file 哈哈

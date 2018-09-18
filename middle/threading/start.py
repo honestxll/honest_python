@@ -10,6 +10,7 @@ def thread_job():
 def main():
   add_thread = threading.Thread(target = thread_job)
   add_thread.start()
+  print('done \n')
 
   print(threading.active_count())
   print(threading.enumerate())
